@@ -16,7 +16,7 @@ MNIST Handwritten Digit Classification using Multilayer Perceptron
 
 ### Classification Report
 
->     ### Train Data
+>  Train Data
 >                   precision    recall  f1-score   support
 >     
 >                0       1.00      1.00      1.00      5923
@@ -35,7 +35,7 @@ MNIST Handwritten Digit Classification using Multilayer Perceptron
 >     weighted avg       1.00      1.00      1.00     60000
 >     
 >     
->     ### Test Data
+>  Test Data
 >                   precision    recall  f1-score   support
 >     
 >                0       0.98      0.99      0.99       980
