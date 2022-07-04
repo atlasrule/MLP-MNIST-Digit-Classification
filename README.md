@@ -1,4 +1,4 @@
-# MLP-MNIST-Digit-Classification
+# MLP MNIST Digit Classification
 MNIST Handwritten Digit Classification using Multilayer Perceptron
 <br>
 
