@@ -2,6 +2,20 @@
 MNIST Handwritten Digit Classification using Multilayer Perceptron
 <br>
 
+### Introduction
+>
+<br>
+
+### Dataset Observations
+>The dataset includes 70000 handwritten pixels digit samples, each has 28x28 features. The digits are centered by their pixel intensity masses. 
+<br>
+
+### Data Preprocessing
+>Data is normalized to 0-1.
+>I haven't preprocessed digits by bounding box since this is not a KNN or SVM approach.
+>Data is split into 60000/10000 as train-test.
+<br>
+
 ### Hyper-parameters
 - hidden layer sizes: (80,30,10)
 - activation: tanh
