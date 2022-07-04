@@ -3,15 +3,15 @@ MNIST Handwritten Digit Classification using Multilayer Perceptron
 <br>
 
 ### Hyper-parameters
->hidden layer sizes: (80,30,10)
->activation: tanh
->solver: sgd
->alpha: 1e-4
->verbose: 10
->random state: 1
->initial learning rate: 0.1
->batch size: 200
->maximum iterations: 50
+- hidden layer sizes: (80,30,10)
+- activation: tanh
+- solver: sgd
+- alpha: 1e-4
+- verbose: 10
+- random state: 1
+- initial learning rate: 0.1
+- batch size: 200
+- maximum iterations: 50
 <br>
 
 ### Classification Report
